@@ -13,4 +13,4 @@ function checkEmail (email){
     }
 }
 
-console.log(checkEmail('moechtarwira@gmail.com'));
+console.log(checkEmail('wirawirdut@gmail.com'));
